@@ -1,0 +1,32 @@
+{
+  "author": {
+    "email": "info@fronteed.com",
+    "name": "Damir Sultanov",
+    "url": "http://fronteed.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/fronteed/icheck/issues"
+  },
+  "dependencies": {},
+  "description": "Highly customizable checkboxes and radio buttons (jQuery & Zepto)",
+  "devDependencies": {},
+  "directories": {},
+  "homepage": "http://fronteed.com/iCheck/",
+  "license": "MIT",
+  "main": "icheck.js",
+  "maintainers": [
+    {
+      "name": "justinsisley",
+      "email": "sisley.justin@gmail.com"
+    }
+  ],
+  "name": "icheck",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fronteed/icheck.git"
+  },
+  "scripts": {},
+  "version": "2.0.0"
+}
